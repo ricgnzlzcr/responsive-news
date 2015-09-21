@@ -1,0 +1,85 @@
+header, .nav__list, main {
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+/*
+ *
+ * Header
+ *
+ */
+.header__title {
+	font-size: 4em;
+	padding: 0;
+}
+.burger {
+	display: none;
+}
+
+/*
+ *
+ * Top Level Navigation
+ *
+ */
+.nav {
+	display: inline;
+}
+.nav__item {
+ 	width: 24%;
+}
+
+/*
+ *
+ * Content
+ *
+ */
+
+
+/*
+ *
+ * Hero
+ *
+ */
+ .hero {
+ 	width: 50%;
+ }
+
+/*
+ *
+ * Top News
+ *
+ */
+
+.top-news {
+ 	width: 50%;
+}
+
+/*
+ *
+ * Sport Scores
+ *
+ */
+
+.scores {
+	width: 50%;
+}
+
+/*
+ *
+ * Weather
+ *
+ */
+
+.weather {
+	width: 50%;
+}
+
+/*
+ *
+ * Recent News
+ *
+ */
+
+ .snippet__thumbnail {
+ 	width: 150px;
+ }
